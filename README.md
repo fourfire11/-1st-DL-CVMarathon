@@ -2,22 +2,7 @@
 
 ###### tags: `Julia`
 
-> 存放[第一屆Julia程式語言學習馬拉松](https://julia.cupoy.com/)的作業，以及個人整理的相關筆記
-> - 目錄
-[ToC]
-
-
-## :memo: Julia v.s. Python
-
-| Julia          | Python               |
-| ----------------- |:----------------------- |
-| GitHub Sync       | [:link:][GitHub-Sync]   |
-| Browser Extension | [:link:][HackMD-it]     |
-| Book Mode         | [:link:][Book-mode]     |
-| Slide Mode        | [:link:][Slide-mode]    | 
-| Share & Publish   | [:link:][Share-Publish] |
-
-- [參考資料](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/522764/)
+> 存放[第一屆Julia程式語言學習馬拉松](https://julia.cupoy.com/)的作業，以及相關筆記
 
 ## :memo: Julia程式語言馬拉松介紹
 

@@ -21,12 +21,12 @@
 
 ## :memo: Julia程式語言馬拉松介紹
 
-### :dart:Part1 Julia語言介紹
+### :dart: Part1 Julia語言介紹
 - Day1 : Julia簡介與安裝
-- Day2 : 用 Markdown 和 LaTeX 撰寫文件與數學公式 ([Day2 hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_002_hw.ipynb))
-- Day3 : Julia套件管理 ([Day3 hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_003_hw.ipynb))
+- Day2 : 用 Markdown 和 LaTeX 撰寫文件與數學公式 ([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_002_hw.ipynb))
+- Day3 : Julia套件管理 ([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_003_hw.ipynb))
 
-### :dart:Part2 Julia基本語法
+### :dart: Part2 Julia基本語法
 - Day4 : Julia數值系統與型別系統 ([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_004_hw.ipynb))
 - Day5 : Julia的變數、內建數學常數與運算子 ([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_005_hw.ipynb))
 - Day6 : Julia的函數介紹 ([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_006_hw.ipynb))
@@ -40,5 +40,18 @@
 - Day14 : Julia的檔案處理與資料庫連線 ([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_014_hw.ipynb))
 - Day15 : Julia的Logging與例外機制介紹
 - Day16 : Multiple Dispatch
-### :dart: Julia 探索式資料分析 (EDA)
-### :dart: Julia 程式語言外部呼叫
+### :dart: Part3 Julia資料工程
+- Day17 : DataFrames.jl介紹 (一) 入門操作 ([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_017_hw.ipynb))
+- Day18 : DataFrames.jl介紹 (二) Joins 與 Split-Apply-Combine Strategy ([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_018_hw.ipynb))
+- Day19 : DataFrames.jl介紹 (三) Reshaping 與 Sorting ([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_019_hw.ipynb))
+- Day20 : DataFrames.jl介紹 (四) Categorical Data 與 Missing Data ([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_020_hw.ipynb))
+### :dart: Part4 Julia 探索式資料分析 (EDA)
+- Day21 : Julia基礎圖表繪製：Gadfly 一維資料圖表
+- Day22 : Julia基礎圖表繪製：Gadfly 二維資料圖表
+- Day23 : Julia基礎圖表繪製：Plots 套件([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_023_hw.ipynb))
+- Day24 : Julia基礎圖表繪製：圖表結合敘述統計([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_024_hw.ipynb))
+### :dart: Part5 Julia 程式語言外部呼叫
+- Day25 : 在Julia 內使用Python
+- Day26 : 在Python 內使用Julia
+### :dart: Part6 Julia 機器學習
+- 

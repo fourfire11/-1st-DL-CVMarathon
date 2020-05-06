@@ -23,8 +23,10 @@
 
 ### :dart:Part1 Julia語言介紹
 - Day1 : Julia簡介與安裝
-- Day2 : 用 Markdown 和 LaTeX 撰寫文件與數學公式 :point_right:[homework](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_002_hw.ipynb)
-- Day3 : Julia套件管理 :point_right:[homework](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_003_hw.ipynb)
+- Day2 : 用 Markdown 和 LaTeX 撰寫文件與數學公式 
+:point_right:[homework](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_002_hw.ipynb)
+- Day3 : Julia套件管理 
+:point_right:[homework](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_003_hw.ipynb)
 
 ### :dart:Part2 Julia基本語法
 - Day4 : Julia數值系統與型別系統 :point_right:[homework](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_004_hw.ipynb)

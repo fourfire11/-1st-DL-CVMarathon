@@ -54,4 +54,4 @@
 - Day25 : 在Julia 內使用Python
 - Day26 : 在Python 內使用Julia
 ### :dart: Part6 Julia 機器學習
-- 
+- coming soon

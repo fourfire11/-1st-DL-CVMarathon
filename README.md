@@ -39,6 +39,7 @@
 - Day25 : 在Julia 內使用Python
 - Day26 : 在Python 內使用Julia
 ### :dart: Part6 Julia 機器學習
+- Day27 : 線性迴歸模型 ([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_027_hw.ipynb))
 - coming soon
 ### :dart: Part7 Julia 深度學習
 - coming soon

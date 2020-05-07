@@ -2,22 +2,7 @@
 
 ###### tags: `Julia`
 
-> 存放[第一屆Julia程式語言學習馬拉松](https://julia.cupoy.com/)的作業，以及個人整理的相關筆記
-> - 目錄
-[ToC]
-
-
-## :memo: Julia v.s. Python
-
-| Julia          | Python               |
-| ----------------- |:----------------------- |
-| GitHub Sync       | [:link:][GitHub-Sync]   |
-| Browser Extension | [:link:][HackMD-it]     |
-| Book Mode         | [:link:][Book-mode]     |
-| Slide Mode        | [:link:][Slide-mode]    | 
-| Share & Publish   | [:link:][Share-Publish] |
-
-- [參考資料](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/522764/)
+> 存放[第一屆Julia程式語言學習馬拉松](https://julia.cupoy.com/)的作業，以及相關筆記
 
 ## :memo: Julia程式語言馬拉松介紹
 
@@ -48,10 +33,14 @@
 ### :dart: Part4 Julia 探索式資料分析 (EDA)
 - Day21 : Julia基礎圖表繪製：Gadfly 一維資料圖表
 - Day22 : Julia基礎圖表繪製：Gadfly 二維資料圖表
-- Day23 : Julia基礎圖表繪製：Plots 套件([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_023_hw.ipynb))
-- Day24 : Julia基礎圖表繪製：圖表結合敘述統計([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_024_hw.ipynb))
+- Day23 : Julia基礎圖表繪製：Plots 套件 ([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_023_hw.ipynb))
+- Day24 : Julia基礎圖表繪製：圖表結合敘述統計 ([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_024_hw.ipynb))
 ### :dart: Part5 Julia 程式語言外部呼叫
 - Day25 : 在Julia 內使用Python
 - Day26 : 在Python 內使用Julia
 ### :dart: Part6 Julia 機器學習
+- coming soon
+### :dart: Part7 Julia 深度學習
+- coming soon
+### :dart: Part8 期末專題
 - coming soon

@@ -40,8 +40,9 @@
 - Day26 : 在Python 內使用Julia
 ### :dart: Part6 Julia 機器學習
 - Day27 : 線性迴歸模型 ([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_027_hw.ipynb))
-- Day28 : Clustering 分群模型([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_028_hw.ipynb))
-- coming soon
+- Day28 : Clustering 分群模型 ([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_028_hw.ipynb))
+- Day29 : 分類模型1-LIBSVM ([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_029_hw.ipynb))
+- Day30 : 分類模型2-分層樹與隨機森林([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_030_hw.ipynb))
 ### :dart: Part7 Julia 深度學習
 - coming soon
 ### :dart: Part8 期末專題

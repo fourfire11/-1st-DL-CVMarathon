@@ -44,6 +44,8 @@
 - Day29 : 分類模型1-LIBSVM ([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_029_hw.ipynb))
 - Day30 : 分類模型2-分層樹與隨機森林([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_030_hw.ipynb))
 ### :dart: Part7 Julia 深度學習
+- Day31 : 可微分程式設計([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_031_hw.ipynb))
+- Day32 : 類神經網路模型([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_032_hw.ipynb))
 - coming soon
 ### :dart: Part8 期末專題
 - coming soon

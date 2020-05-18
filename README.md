@@ -46,6 +46,6 @@
 ### :dart: Part7 Julia 深度學習
 - Day31 : 可微分程式設計([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_031_hw.ipynb))
 - Day32 : 類神經網路模型([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_032_hw.ipynb))
-- coming soon
+- Day33 : 卷積神經網路模型簡介([hw](https://github.com/fourfire11/1st-JuliaMarathon/blob/master/homework/Day_033_hw.ipynb))
 ### :dart: Part8 期末專題
 - coming soon
